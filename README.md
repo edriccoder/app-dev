@@ -1,4 +1,4 @@
-# My fovorite movie
+# My favorite movie
 
 ## Blade Runner 2049
 
